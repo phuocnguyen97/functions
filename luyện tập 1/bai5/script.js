@@ -24,7 +24,7 @@ function stars(arr) {
         }
     }
     let a = prompt("Nhập vào tên ngôi sao");
-    document.write(stars(arr));
+    document.write(stars(a));
 
 
 
